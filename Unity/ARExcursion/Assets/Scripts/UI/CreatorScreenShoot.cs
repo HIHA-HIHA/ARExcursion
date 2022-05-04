@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -7,8 +8,6 @@ using UnityEngine;
 
 public class CreatorScreenShoot : MonoBehaviour
 {
-    [SerializeField]
-    private TMP_Text debugText;
 
     public void CreateScreenshoot()
     {
@@ -31,7 +30,7 @@ public class CreatorScreenShoot : MonoBehaviour
             screenshoot,
             "ARExcursion",
             nameFile,
-            (success, path) => debugText.text = "Media save result: " + success + " " + path
+            (success, path) => Debug.Log("Good!")
             );
 
        
