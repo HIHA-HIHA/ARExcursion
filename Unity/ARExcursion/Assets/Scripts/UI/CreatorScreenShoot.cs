@@ -5,9 +5,12 @@ using System.Collections.Generic;
 using TMPro;
 
 using UnityEngine;
+using UnityEngine.Events;
 
 public class CreatorScreenShoot : MonoBehaviour
 {
+    [SerializeField]
+    private UnityEvent onCreateScreenshoot;
 
     public void CreateScreenshoot()
     {
@@ -23,17 +26,25 @@ public class CreatorScreenShoot : MonoBehaviour
         screenshoot.ReadPixels(new Rect(0, 0, Screen.width, Screen.height), 0, 0);
         screenshoot.Apply();
 
-        string nameFile = "Screenshoot_"+ System.DateTime.Now.ToString("dd-MM-yyyy-HH-mm-ss")+".png";
+        string nameFile = "Screenshoot_" + System.DateTime.Now.ToString("dd-MM-yyyy-HH-mm-ss") + ".png";
 
         // Save the screenshot to Gallery/Photos
         NativeGallery.Permission permission = NativeGallery.SaveImageToGallery(
             screenshoot,
             "ARExcursion",
             nameFile,
-            (success, path) => Debug.Log("Good!")
+            (success, path) =>
+            {
+                if (success)
+                {
+                    Debug.Log("Good! Path: " + path);
+                    onCreateScreenshoot?.Invoke();
+                }
+                
+            }
             );
 
-       
+
     }
 
     private void Temp()
