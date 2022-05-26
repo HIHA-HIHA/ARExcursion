@@ -15,8 +15,12 @@ public class BlinkController : MonoBehaviour
 
     public void Run()
     {
-        animator.gameObject.SetActive(true);
-        StartCoroutine(CreateBlink());
+        if (gameObject.activeSelf)
+        {
+            animator.gameObject.SetActive(true);
+            StartCoroutine(CreateBlink());
+        }
+        
     }
 
     private IEnumerator CreateBlink()

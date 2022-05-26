@@ -12,6 +12,13 @@ public class CreatorScreenShoot : MonoBehaviour
     [SerializeField]
     private UnityEvent onCreateScreenshoot;
 
+    [SerializeField]
+    private GameObject UI;
+
+    [SerializeField]
+    private GameObject waterMark;
+
+
     public void CreateScreenshoot()
     {
         StartCoroutine(IECreateScreenShoot());
@@ -19,6 +26,7 @@ public class CreatorScreenShoot : MonoBehaviour
 
     private IEnumerator IECreateScreenShoot()
     {
+        TurnWaterMark();
 
         yield return new WaitForEndOfFrame();
 
@@ -43,19 +51,14 @@ public class CreatorScreenShoot : MonoBehaviour
                 
             }
             );
+        TurnWaterMark();
 
 
     }
 
-    private void Temp()
+    private void TurnWaterMark()
     {
-        /*
-       string timeStamp = System.DateTime.Now.ToString("dd-MM-yyyy-HH-mm-ss");
-       string filename = "Screenshoot" + timeStamp + ".png";
-       string pathToSave = Application.persistentDataPath + "/" + filename;
-       ScreenCapture.CaptureScreenshot(pathToSave);
-       yield return new WaitForEndOfFrame();
-       debugText.text = Application.persistentDataPath + "/" + filename;
-       */
+        UI.SetActive(!UI.activeSelf);
+        waterMark.SetActive(!waterMark.activeSelf);
     }
 }

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LoaderScene : MonoBehaviour
-{
+{   
     [SerializeField]
     private LoaderSceneData dataset;
 
@@ -21,18 +21,23 @@ public class LoaderScene : MonoBehaviour
 
     public void StartLoading()
     {
-        dataset.LoaderPanel.SetActive(true);
+        dataset.LoadingPanel.SetActive(true);
         StartCoroutine(AsyncLoadScene());
     }
 
     private IEnumerator AsyncLoadScene()
     {
-        var operation = SceneManager.LoadSceneAsync(nameScene);
+        var operation = SceneManager.LoadSceneAsync(nameScene,LoadSceneMode.Additive);
         while (!operation.isDone)
         {
-            dataset.LoaderText.text = operation.progress + "%";
+            dataset.AlphaImage.alpha = (
+                operation.progress);
             yield return new WaitForSeconds(0.001f);
         }
+        yield return new WaitForSeconds(1f);
+        SceneManager.UnloadSceneAsync(SceneManager.GetActiveScene().buildIndex);
+        
+
     }
 
 

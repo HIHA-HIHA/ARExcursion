@@ -1,0 +1,1128 @@
+fileFormatVersion: 2
+guid: 62085941c99f80d4f9148016c17f6db2
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4582905222341150327
+    second: polySurface37|pCylinder1|Take 001|BaseLayer
+  - first:
+      74: 8039599798219250882
+    second: polySurface37|pCylinder2|Take 001|BaseLayer
+  - first:
+      74: -8013185240292027358
+    second: polySurface37|polySurface29|Take 001|BaseLayer
+  - first:
+      74: -1732452108499708130
+    second: polySurface37|polySurface35|Take 001|BaseLayer
+  - first:
+      74: 4405456389721512328
+    second: polySurface37|polySurface36|Take 001|BaseLayer
+  - first:
+      74: -3594790937068876254
+    second: polySurface37|polySurface37|Take 001|BaseLayer
+  - first:
+      74: -3838979274706819568
+    second: polySurface37|pPipe1|Take 001|BaseLayer
+  - first:
+      74: -6713464047768743173
+    second: polySurface37|pSphere10|Take 001|BaseLayer
+  - first:
+      74: 7429845294841109198
+    second: polySurface37|pSphere11|Take 001|BaseLayer
+  - first:
+      74: -4018684417068100921
+    second: polySurface37|pSphere12|Take 001|BaseLayer
+  - first:
+      74: -5747433626599619706
+    second: polySurface37|pSphere13|Take 001|BaseLayer
+  - first:
+      74: 8546604538850584181
+    second: polySurface37|pSphere14|Take 001|BaseLayer
+  - first:
+      74: -4984459560896504007
+    second: polySurface37|pSphere15|Take 001|BaseLayer
+  - first:
+      74: -2963667507831739616
+    second: polySurface37|pSphere16|Take 001|BaseLayer
+  - first:
+      74: 5667594707196986193
+    second: polySurface37|pSphere17|Take 001|BaseLayer
+  - first:
+      74: 9122995353647454237
+    second: polySurface37|pSphere18|Take 001|BaseLayer
+  - first:
+      74: -5942929640204644918
+    second: polySurface37|pSphere19|Take 001|BaseLayer
+  - first:
+      74: 4675416656107825027
+    second: polySurface37|pSphere1|Take 001|BaseLayer
+  - first:
+      74: 4020988202233873879
+    second: polySurface37|pSphere20|Take 001|BaseLayer
+  - first:
+      74: -3370891000034971909
+    second: polySurface37|pSphere21|Take 001|BaseLayer
+  - first:
+      74: -5076498403956483807
+    second: polySurface37|pSphere22|Take 001|BaseLayer
+  - first:
+      74: 5831619515003950215
+    second: polySurface37|pSphere23|Take 001|BaseLayer
+  - first:
+      74: 4649015014167110162
+    second: polySurface37|pSphere24|Take 001|BaseLayer
+  - first:
+      74: 1099141823029196892
+    second: polySurface37|pSphere25|Take 001|BaseLayer
+  - first:
+      74: 2450266257714887487
+    second: polySurface37|pSphere26|Take 001|BaseLayer
+  - first:
+      74: 7486383265594524670
+    second: polySurface37|pSphere27|Take 001|BaseLayer
+  - first:
+      74: -8442306707815337568
+    second: polySurface37|pSphere28|Take 001|BaseLayer
+  - first:
+      74: -359995641600027145
+    second: polySurface37|pSphere29|Take 001|BaseLayer
+  - first:
+      74: -3200303956126082688
+    second: polySurface37|pSphere2|Take 001|BaseLayer
+  - first:
+      74: -4108805740115263839
+    second: polySurface37|pSphere30|Take 001|BaseLayer
+  - first:
+      74: -8966782567070920541
+    second: polySurface37|pSphere31|Take 001|BaseLayer
+  - first:
+      74: 5222020658407956605
+    second: polySurface37|pSphere3|Take 001|BaseLayer
+  - first:
+      74: -6204812627926266429
+    second: polySurface37|pSphere4|Take 001|BaseLayer
+  - first:
+      74: 4287927608688483678
+    second: polySurface37|pSphere5|Take 001|BaseLayer
+  - first:
+      74: 7234027646498013687
+    second: polySurface37|pSphere6|Take 001|BaseLayer
+  - first:
+      74: -3203843783124846367
+    second: polySurface37|pSphere7|Take 001|BaseLayer
+  - first:
+      74: -475637348464527466
+    second: polySurface37|pSphere8|Take 001|BaseLayer
+  - first:
+      74: -1362932554400647761
+    second: polySurface37|pSphere9|Take 001|BaseLayer
+  - first:
+      74: -8780679013970861378
+    second: polySurface36|pCylinder1|Take 001|BaseLayer
+  - first:
+      74: -414604812600324944
+    second: polySurface36|pCylinder2|Take 001|BaseLayer
+  - first:
+      74: -7979378371935612886
+    second: polySurface36|polySurface29|Take 001|BaseLayer
+  - first:
+      74: 8806915329068862548
+    second: polySurface36|polySurface35|Take 001|BaseLayer
+  - first:
+      74: -8166637575690578072
+    second: polySurface36|polySurface36|Take 001|BaseLayer
+  - first:
+      74: 2587411406286408594
+    second: polySurface36|polySurface37|Take 001|BaseLayer
+  - first:
+      74: -7000155437738971221
+    second: polySurface36|pPipe1|Take 001|BaseLayer
+  - first:
+      74: -5809006603843054887
+    second: polySurface36|pSphere10|Take 001|BaseLayer
+  - first:
+      74: -8871601483400839872
+    second: polySurface36|pSphere11|Take 001|BaseLayer
+  - first:
+      74: 7967318821614580269
+    second: polySurface36|pSphere12|Take 001|BaseLayer
+  - first:
+      74: -3674471821535506673
+    second: polySurface36|pSphere13|Take 001|BaseLayer
+  - first:
+      74: -4933683693565387068
+    second: polySurface36|pSphere14|Take 001|BaseLayer
+  - first:
+      74: -2310884701032356817
+    second: polySurface36|pSphere15|Take 001|BaseLayer
+  - first:
+      74: -5517113396250857106
+    second: polySurface36|pSphere16|Take 001|BaseLayer
+  - first:
+      74: 5270009996706474928
+    second: polySurface36|pSphere17|Take 001|BaseLayer
+  - first:
+      74: -6570887507430388377
+    second: polySurface36|pSphere18|Take 001|BaseLayer
+  - first:
+      74: 8899808437561825646
+    second: polySurface36|pSphere19|Take 001|BaseLayer
+  - first:
+      74: -5728018331448502005
+    second: polySurface36|pSphere1|Take 001|BaseLayer
+  - first:
+      74: 3175870903753298792
+    second: polySurface36|pSphere20|Take 001|BaseLayer
+  - first:
+      74: 3814939330030140338
+    second: polySurface36|pSphere21|Take 001|BaseLayer
+  - first:
+      74: -8239962743411873900
+    second: polySurface36|pSphere22|Take 001|BaseLayer
+  - first:
+      74: 6762587744222936106
+    second: polySurface36|pSphere23|Take 001|BaseLayer
+  - first:
+      74: -8712581189290131083
+    second: polySurface36|pSphere24|Take 001|BaseLayer
+  - first:
+      74: -3802779030379486319
+    second: polySurface36|pSphere25|Take 001|BaseLayer
+  - first:
+      74: -4431867724745725370
+    second: polySurface36|pSphere26|Take 001|BaseLayer
+  - first:
+      74: 1649737641344109229
+    second: polySurface36|pSphere27|Take 001|BaseLayer
+  - first:
+      74: -3683171784406047066
+    second: polySurface36|pSphere28|Take 001|BaseLayer
+  - first:
+      74: 6860157895354351361
+    second: polySurface36|pSphere29|Take 001|BaseLayer
+  - first:
+      74: 5724206514075561949
+    second: polySurface36|pSphere2|Take 001|BaseLayer
+  - first:
+      74: 357815127613284805
+    second: polySurface36|pSphere30|Take 001|BaseLayer
+  - first:
+      74: -774537152258861826
+    second: polySurface36|pSphere31|Take 001|BaseLayer
+  - first:
+      74: 3604018788836153420
+    second: polySurface36|pSphere3|Take 001|BaseLayer
+  - first:
+      74: -6385081731042835876
+    second: polySurface36|pSphere4|Take 001|BaseLayer
+  - first:
+      74: -1548541087618993712
+    second: polySurface36|pSphere5|Take 001|BaseLayer
+  - first:
+      74: -2426050430640385623
+    second: polySurface36|pSphere6|Take 001|BaseLayer
+  - first:
+      74: -6613327244124641322
+    second: polySurface36|pSphere7|Take 001|BaseLayer
+  - first:
+      74: -1050409940236384342
+    second: polySurface36|pSphere8|Take 001|BaseLayer
+  - first:
+      74: 4400772162622080722
+    second: polySurface36|pSphere9|Take 001|BaseLayer
+  - first:
+      74: 1369585894826175557
+    second: polySurface29|pCylinder1|Take 001|BaseLayer
+  - first:
+      74: -765612723504103499
+    second: polySurface29|pCylinder2|Take 001|BaseLayer
+  - first:
+      74: -6839999018741290641
+    second: polySurface29|polySurface29|Take 001|BaseLayer
+  - first:
+      74: -3543986610568306867
+    second: polySurface29|polySurface35|Take 001|BaseLayer
+  - first:
+      74: -4067354879210242459
+    second: polySurface29|polySurface36|Take 001|BaseLayer
+  - first:
+      74: 700728357892078205
+    second: polySurface29|polySurface37|Take 001|BaseLayer
+  - first:
+      74: 115122808046814136
+    second: polySurface29|pPipe1|Take 001|BaseLayer
+  - first:
+      74: 4026480352439895141
+    second: polySurface29|pSphere10|Take 001|BaseLayer
+  - first:
+      74: -6709543293744743235
+    second: polySurface29|pSphere11|Take 001|BaseLayer
+  - first:
+      74: 7596428933631248263
+    second: polySurface29|pSphere12|Take 001|BaseLayer
+  - first:
+      74: -1769321076114321408
+    second: polySurface29|pSphere13|Take 001|BaseLayer
+  - first:
+      74: -344076370616857553
+    second: polySurface29|pSphere14|Take 001|BaseLayer
+  - first:
+      74: -8674385284038866472
+    second: polySurface29|pSphere15|Take 001|BaseLayer
+  - first:
+      74: -3274143903569644204
+    second: polySurface29|pSphere16|Take 001|BaseLayer
+  - first:
+      74: -6452878545117491209
+    second: polySurface29|pSphere17|Take 001|BaseLayer
+  - first:
+      74: -5501658763351390527
+    second: polySurface29|pSphere18|Take 001|BaseLayer
+  - first:
+      74: -2331752150703555782
+    second: polySurface29|pSphere19|Take 001|BaseLayer
+  - first:
+      74: -7024115473377113271
+    second: polySurface29|pSphere1|Take 001|BaseLayer
+  - first:
+      74: -7136958831646412885
+    second: polySurface29|pSphere20|Take 001|BaseLayer
+  - first:
+      74: -2032708304430078772
+    second: polySurface29|pSphere21|Take 001|BaseLayer
+  - first:
+      74: 3384930074491010395
+    second: polySurface29|pSphere22|Take 001|BaseLayer
+  - first:
+      74: -7646404076522959854
+    second: polySurface29|pSphere23|Take 001|BaseLayer
+  - first:
+      74: -6597303056648949309
+    second: polySurface29|pSphere24|Take 001|BaseLayer
+  - first:
+      74: -9033262273686271917
+    second: polySurface29|pSphere25|Take 001|BaseLayer
+  - first:
+      74: -4213216222270042884
+    second: polySurface29|pSphere26|Take 001|BaseLayer
+  - first:
+      74: -6279376438421700641
+    second: polySurface29|pSphere27|Take 001|BaseLayer
+  - first:
+      74: 2335997081291388251
+    second: polySurface29|pSphere28|Take 001|BaseLayer
+  - first:
+      74: -473626801221622080
+    second: polySurface29|pSphere29|Take 001|BaseLayer
+  - first:
+      74: 385035363507009727
+    second: polySurface29|pSphere2|Take 001|BaseLayer
+  - first:
+      74: 8173285099583407551
+    second: polySurface29|pSphere30|Take 001|BaseLayer
+  - first:
+      74: 7405474559501579955
+    second: polySurface29|pSphere31|Take 001|BaseLayer
+  - first:
+      74: -330292979741318667
+    second: polySurface29|pSphere3|Take 001|BaseLayer
+  - first:
+      74: -5569302289419167567
+    second: polySurface29|pSphere4|Take 001|BaseLayer
+  - first:
+      74: 1747581709825503837
+    second: polySurface29|pSphere5|Take 001|BaseLayer
+  - first:
+      74: 5621010109668776031
+    second: polySurface29|pSphere6|Take 001|BaseLayer
+  - first:
+      74: -1871360470841776854
+    second: polySurface29|pSphere7|Take 001|BaseLayer
+  - first:
+      74: 3978517571700139989
+    second: polySurface29|pSphere8|Take 001|BaseLayer
+  - first:
+      74: 3486552424430019073
+    second: polySurface29|pSphere9|Take 001|BaseLayer
+  - first:
+      74: 8241824652886646974
+    second: polySurface35|pCylinder1|Take 001|BaseLayer
+  - first:
+      74: 5290180799044980773
+    second: polySurface35|pCylinder2|Take 001|BaseLayer
+  - first:
+      74: -593168437410816703
+    second: polySurface35|polySurface29|Take 001|BaseLayer
+  - first:
+      74: -8101319936602649344
+    second: polySurface35|polySurface35|Take 001|BaseLayer
+  - first:
+      74: -7349746124153176075
+    second: polySurface35|polySurface36|Take 001|BaseLayer
+  - first:
+      74: 8447956212420591197
+    second: polySurface35|polySurface37|Take 001|BaseLayer
+  - first:
+      74: -5303242352389927128
+    second: polySurface35|pPipe1|Take 001|BaseLayer
+  - first:
+      74: 2042101440911824774
+    second: polySurface35|pSphere10|Take 001|BaseLayer
+  - first:
+      74: -3688572801295840708
+    second: polySurface35|pSphere11|Take 001|BaseLayer
+  - first:
+      74: 9088802820832216533
+    second: polySurface35|pSphere12|Take 001|BaseLayer
+  - first:
+      74: -992487800010125301
+    second: polySurface35|pSphere13|Take 001|BaseLayer
+  - first:
+      74: 2617423107192258950
+    second: polySurface35|pSphere14|Take 001|BaseLayer
+  - first:
+      74: -289655802678894343
+    second: polySurface35|pSphere15|Take 001|BaseLayer
+  - first:
+      74: -2312505139779258955
+    second: polySurface35|pSphere16|Take 001|BaseLayer
+  - first:
+      74: -3815785598015175703
+    second: polySurface35|pSphere17|Take 001|BaseLayer
+  - first:
+      74: 6488548795382134259
+    second: polySurface35|pSphere18|Take 001|BaseLayer
+  - first:
+      74: -6439082950811352976
+    second: polySurface35|pSphere19|Take 001|BaseLayer
+  - first:
+      74: 186764090690844696
+    second: polySurface35|pSphere1|Take 001|BaseLayer
+  - first:
+      74: 7977895285811843480
+    second: polySurface35|pSphere20|Take 001|BaseLayer
+  - first:
+      74: -7820331260938563661
+    second: polySurface35|pSphere21|Take 001|BaseLayer
+  - first:
+      74: 339926771483724893
+    second: polySurface35|pSphere22|Take 001|BaseLayer
+  - first:
+      74: -6140129019211701669
+    second: polySurface35|pSphere23|Take 001|BaseLayer
+  - first:
+      74: -5252550424265376173
+    second: polySurface35|pSphere24|Take 001|BaseLayer
+  - first:
+      74: 7351305979465947058
+    second: polySurface35|pSphere25|Take 001|BaseLayer
+  - first:
+      74: 4476160177558921265
+    second: polySurface35|pSphere26|Take 001|BaseLayer
+  - first:
+      74: 5722245050691638464
+    second: polySurface35|pSphere27|Take 001|BaseLayer
+  - first:
+      74: -1302203836961091702
+    second: polySurface35|pSphere28|Take 001|BaseLayer
+  - first:
+      74: -1210126974042077268
+    second: polySurface35|pSphere29|Take 001|BaseLayer
+  - first:
+      74: -1506059409732127702
+    second: polySurface35|pSphere2|Take 001|BaseLayer
+  - first:
+      74: -8799183422073617129
+    second: polySurface35|pSphere30|Take 001|BaseLayer
+  - first:
+      74: -8972260849420361068
+    second: polySurface35|pSphere31|Take 001|BaseLayer
+  - first:
+      74: 5397998618436493247
+    second: polySurface35|pSphere3|Take 001|BaseLayer
+  - first:
+      74: 4528727408211584125
+    second: polySurface35|pSphere4|Take 001|BaseLayer
+  - first:
+      74: 8520396736361516955
+    second: polySurface35|pSphere5|Take 001|BaseLayer
+  - first:
+      74: -31799643086035140
+    second: polySurface35|pSphere6|Take 001|BaseLayer
+  - first:
+      74: -8777588280806373886
+    second: polySurface35|pSphere7|Take 001|BaseLayer
+  - first:
+      74: -4819191878193092699
+    second: polySurface35|pSphere8|Take 001|BaseLayer
+  - first:
+      74: -1571597607470131127
+    second: polySurface35|pSphere9|Take 001|BaseLayer
+  - first:
+      74: -7535120766293828391
+    second: pSphere12|pCylinder1|Take 001|BaseLayer
+  - first:
+      74: 8638620473016302613
+    second: pSphere12|pCylinder2|Take 001|BaseLayer
+  - first:
+      74: -6386699060965706840
+    second: pSphere12|polySurface29|Take 001|BaseLayer
+  - first:
+      74: -3504805064758997984
+    second: pSphere12|polySurface35|Take 001|BaseLayer
+  - first:
+      74: -7136033589608102284
+    second: pSphere12|polySurface36|Take 001|BaseLayer
+  - first:
+      74: 5368521539791774622
+    second: pSphere12|polySurface37|Take 001|BaseLayer
+  - first:
+      74: 7633805002171331855
+    second: pSphere12|pPipe1|Take 001|BaseLayer
+  - first:
+      74: -3308676247374717349
+    second: pSphere12|pSphere10|Take 001|BaseLayer
+  - first:
+      74: -703083857294511549
+    second: pSphere12|pSphere11|Take 001|BaseLayer
+  - first:
+      74: -9149386961405389306
+    second: pSphere12|pSphere12|Take 001|BaseLayer
+  - first:
+      74: 7749013870774458808
+    second: pSphere12|pSphere13|Take 001|BaseLayer
+  - first:
+      74: 229747449564832297
+    second: pSphere12|pSphere14|Take 001|BaseLayer
+  - first:
+      74: 1526094953196289396
+    second: pSphere12|pSphere15|Take 001|BaseLayer
+  - first:
+      74: -2434938417841085138
+    second: pSphere12|pSphere16|Take 001|BaseLayer
+  - first:
+      74: 3103140818844793946
+    second: pSphere12|pSphere17|Take 001|BaseLayer
+  - first:
+      74: 2089878941594016846
+    second: pSphere12|pSphere18|Take 001|BaseLayer
+  - first:
+      74: 6307055566646484369
+    second: pSphere12|pSphere19|Take 001|BaseLayer
+  - first:
+      74: 7950360493868102774
+    second: pSphere12|pSphere1|Take 001|BaseLayer
+  - first:
+      74: 2640963459097497616
+    second: pSphere12|pSphere20|Take 001|BaseLayer
+  - first:
+      74: -1388787752450350441
+    second: pSphere12|pSphere21|Take 001|BaseLayer
+  - first:
+      74: 5402781674971368482
+    second: pSphere12|pSphere22|Take 001|BaseLayer
+  - first:
+      74: 6989178757972997908
+    second: pSphere12|pSphere23|Take 001|BaseLayer
+  - first:
+      74: -944031642953800673
+    second: pSphere12|pSphere24|Take 001|BaseLayer
+  - first:
+      74: 5861316880626802583
+    second: pSphere12|pSphere25|Take 001|BaseLayer
+  - first:
+      74: 8916581212271819265
+    second: pSphere12|pSphere26|Take 001|BaseLayer
+  - first:
+      74: 7185969715931295523
+    second: pSphere12|pSphere27|Take 001|BaseLayer
+  - first:
+      74: -7346180719426172311
+    second: pSphere12|pSphere28|Take 001|BaseLayer
+  - first:
+      74: -4684140512140010600
+    second: pSphere12|pSphere29|Take 001|BaseLayer
+  - first:
+      74: 988187404581302408
+    second: pSphere12|pSphere2|Take 001|BaseLayer
+  - first:
+      74: -8410238133082754650
+    second: pSphere12|pSphere30|Take 001|BaseLayer
+  - first:
+      74: 3950796503627019974
+    second: pSphere12|pSphere31|Take 001|BaseLayer
+  - first:
+      74: -5671556217985625996
+    second: pSphere12|pSphere3|Take 001|BaseLayer
+  - first:
+      74: 3264465212858915089
+    second: pSphere12|pSphere4|Take 001|BaseLayer
+  - first:
+      74: 6726304158409264105
+    second: pSphere12|pSphere5|Take 001|BaseLayer
+  - first:
+      74: 1858052635198150709
+    second: pSphere12|pSphere6|Take 001|BaseLayer
+  - first:
+      74: 7300078996280180362
+    second: pSphere12|pSphere7|Take 001|BaseLayer
+  - first:
+      74: 4515973071822610149
+    second: pSphere12|pSphere8|Take 001|BaseLayer
+  - first:
+      74: 5281140735491096833
+    second: pSphere12|pSphere9|Take 001|BaseLayer
+  - first:
+      74: 2836712391721909197
+    second: pSphere11|pCylinder1|Take 001|BaseLayer
+  - first:
+      74: 8792392503527963393
+    second: pSphere11|pCylinder2|Take 001|BaseLayer
+  - first:
+      74: -8985479115886721073
+    second: pSphere11|polySurface29|Take 001|BaseLayer
+  - first:
+      74: 5791824572474695723
+    second: pSphere11|polySurface35|Take 001|BaseLayer
+  - first:
+      74: 2086633682543758592
+    second: pSphere11|polySurface36|Take 001|BaseLayer
+  - first:
+      74: 784815787270236794
+    second: pSphere11|polySurface37|Take 001|BaseLayer
+  - first:
+      74: 1002396069480934763
+    second: pSphere11|pPipe1|Take 001|BaseLayer
+  - first:
+      74: 2352088732561108948
+    second: pSphere11|pSphere10|Take 001|BaseLayer
+  - first:
+      74: 5968638948360032011
+    second: pSphere11|pSphere11|Take 001|BaseLayer
+  - first:
+      74: -2396585077865320262
+    second: pSphere11|pSphere12|Take 001|BaseLayer
+  - first:
+      74: 9097709197649310398
+    second: pSphere11|pSphere13|Take 001|BaseLayer
+  - first:
+      74: 2964751254639920371
+    second: pSphere11|pSphere14|Take 001|BaseLayer
+  - first:
+      74: 7022543454383333701
+    second: pSphere11|pSphere15|Take 001|BaseLayer
+  - first:
+      74: -1070574861173125822
+    second: pSphere11|pSphere16|Take 001|BaseLayer
+  - first:
+      74: -7158007143231166377
+    second: pSphere11|pSphere17|Take 001|BaseLayer
+  - first:
+      74: -3956507389376204944
+    second: pSphere11|pSphere18|Take 001|BaseLayer
+  - first:
+      74: 3820949549067956493
+    second: pSphere11|pSphere19|Take 001|BaseLayer
+  - first:
+      74: 5819392448890412050
+    second: pSphere11|pSphere1|Take 001|BaseLayer
+  - first:
+      74: 4531929454697512976
+    second: pSphere11|pSphere20|Take 001|BaseLayer
+  - first:
+      74: 3813865381826346872
+    second: pSphere11|pSphere21|Take 001|BaseLayer
+  - first:
+      74: 5613367088069509347
+    second: pSphere11|pSphere22|Take 001|BaseLayer
+  - first:
+      74: -6685339012507079543
+    second: pSphere11|pSphere23|Take 001|BaseLayer
+  - first:
+      74: 7557971521187780521
+    second: pSphere11|pSphere24|Take 001|BaseLayer
+  - first:
+      74: 2749287807733461122
+    second: pSphere11|pSphere25|Take 001|BaseLayer
+  - first:
+      74: -2733932910531029870
+    second: pSphere11|pSphere26|Take 001|BaseLayer
+  - first:
+      74: -9075124943582499373
+    second: pSphere11|pSphere27|Take 001|BaseLayer
+  - first:
+      74: 123719877618415754
+    second: pSphere11|pSphere28|Take 001|BaseLayer
+  - first:
+      74: 309974894067982449
+    second: pSphere11|pSphere29|Take 001|BaseLayer
+  - first:
+      74: -8591464228227633100
+    second: pSphere11|pSphere2|Take 001|BaseLayer
+  - first:
+      74: -3632105937810061579
+    second: pSphere11|pSphere30|Take 001|BaseLayer
+  - first:
+      74: -1508860434528608884
+    second: pSphere11|pSphere31|Take 001|BaseLayer
+  - first:
+      74: 4551902205110552909
+    second: pSphere11|pSphere3|Take 001|BaseLayer
+  - first:
+      74: -1958167049064000026
+    second: pSphere11|pSphere4|Take 001|BaseLayer
+  - first:
+      74: 8881660822553723358
+    second: pSphere11|pSphere5|Take 001|BaseLayer
+  - first:
+      74: -4732484917987941168
+    second: pSphere11|pSphere6|Take 001|BaseLayer
+  - first:
+      74: -5149048230716771288
+    second: pSphere11|pSphere7|Take 001|BaseLayer
+  - first:
+      74: 5203722194032813632
+    second: pSphere11|pSphere8|Take 001|BaseLayer
+  - first:
+      74: 5956570403413420014
+    second: pSphere11|pSphere9|Take 001|BaseLayer
+  - first:
+      74: -6624182618210588176
+    second: pSphere10|pCylinder1|Take 001|BaseLayer
+  - first:
+      74: 2005903047359706188
+    second: pSphere10|pCylinder2|Take 001|BaseLayer
+  - first:
+      74: -2070024431340572459
+    second: pSphere10|polySurface29|Take 001|BaseLayer
+  - first:
+      74: -4503723435292492363
+    second: pSphere10|polySurface35|Take 001|BaseLayer
+  - first:
+      74: 5772967263827842924
+    second: pSphere10|polySurface36|Take 001|BaseLayer
+  - first:
+      74: 9090140527945565123
+    second: pSphere10|polySurface37|Take 001|BaseLayer
+  - first:
+      74: 9101670138268646230
+    second: pSphere10|pPipe1|Take 001|BaseLayer
+  - first:
+      74: -7755453448811265320
+    second: pSphere10|pSphere10|Take 001|BaseLayer
+  - first:
+      74: -7902206408741446326
+    second: pSphere10|pSphere11|Take 001|BaseLayer
+  - first:
+      74: -3293213213415618087
+    second: pSphere10|pSphere12|Take 001|BaseLayer
+  - first:
+      74: 8528652298377483632
+    second: pSphere10|pSphere13|Take 001|BaseLayer
+  - first:
+      74: 7914820017583441199
+    second: pSphere10|pSphere14|Take 001|BaseLayer
+  - first:
+      74: -3779941023683619144
+    second: pSphere10|pSphere15|Take 001|BaseLayer
+  - first:
+      74: 7982276777021042733
+    second: pSphere10|pSphere16|Take 001|BaseLayer
+  - first:
+      74: 6733911208206955348
+    second: pSphere10|pSphere17|Take 001|BaseLayer
+  - first:
+      74: 7540653154099151186
+    second: pSphere10|pSphere18|Take 001|BaseLayer
+  - first:
+      74: 1290035020672786195
+    second: pSphere10|pSphere19|Take 001|BaseLayer
+  - first:
+      74: 3582435855345643150
+    second: pSphere10|pSphere1|Take 001|BaseLayer
+  - first:
+      74: -7462696431332097143
+    second: pSphere10|pSphere20|Take 001|BaseLayer
+  - first:
+      74: -5199937607311516477
+    second: pSphere10|pSphere21|Take 001|BaseLayer
+  - first:
+      74: -3382171742252708844
+    second: pSphere10|pSphere22|Take 001|BaseLayer
+  - first:
+      74: -7502823636267079840
+    second: pSphere10|pSphere23|Take 001|BaseLayer
+  - first:
+      74: 1083067228980166281
+    second: pSphere10|pSphere24|Take 001|BaseLayer
+  - first:
+      74: 8723752189251048337
+    second: pSphere10|pSphere25|Take 001|BaseLayer
+  - first:
+      74: 4108514761037356510
+    second: pSphere10|pSphere26|Take 001|BaseLayer
+  - first:
+      74: 1536321393300087762
+    second: pSphere10|pSphere27|Take 001|BaseLayer
+  - first:
+      74: -8657992322908390315
+    second: pSphere10|pSphere28|Take 001|BaseLayer
+  - first:
+      74: 9063975603220393985
+    second: pSphere10|pSphere29|Take 001|BaseLayer
+  - first:
+      74: 7928057311495985766
+    second: pSphere10|pSphere2|Take 001|BaseLayer
+  - first:
+      74: 4344711614618439173
+    second: pSphere10|pSphere30|Take 001|BaseLayer
+  - first:
+      74: -7726330301569865240
+    second: pSphere10|pSphere31|Take 001|BaseLayer
+  - first:
+      74: -6291809981149918916
+    second: pSphere10|pSphere3|Take 001|BaseLayer
+  - first:
+      74: 3081699889981396061
+    second: pSphere10|pSphere4|Take 001|BaseLayer
+  - first:
+      74: 6177567695600872742
+    second: pSphere10|pSphere5|Take 001|BaseLayer
+  - first:
+      74: 2745283498961975860
+    second: pSphere10|pSphere6|Take 001|BaseLayer
+  - first:
+      74: -5706003769803113682
+    second: pSphere10|pSphere7|Take 001|BaseLayer
+  - first:
+      74: -1856868555260545556
+    second: pSphere10|pSphere8|Take 001|BaseLayer
+  - first:
+      74: 6270255102262043299
+    second: pSphere10|pSphere9|Take 001|BaseLayer
+  - first:
+      74: 18926304010817422
+    second: pSphere9|pCylinder1|Take 001|BaseLayer
+  - first:
+      74: 806494846596342500
+    second: pSphere9|pCylinder2|Take 001|BaseLayer
+  - first:
+      74: 4057047892377227858
+    second: pSphere9|polySurface29|Take 001|BaseLayer
+  - first:
+      74: 7697916654587665323
+    second: pSphere9|polySurface35|Take 001|BaseLayer
+  - first:
+      74: -915139094174946796
+    second: pSphere9|polySurface36|Take 001|BaseLayer
+  - first:
+      74: 5176423966251487888
+    second: pSphere9|polySurface37|Take 001|BaseLayer
+  - first:
+      74: -4678402317436297860
+    second: pSphere9|pPipe1|Take 001|BaseLayer
+  - first:
+      74: 8324854839503614792
+    second: pSphere9|pSphere10|Take 001|BaseLayer
+  - first:
+      74: -6084942683867025091
+    second: pSphere9|pSphere11|Take 001|BaseLayer
+  - first:
+      74: -1632526724027973499
+    second: pSphere9|pSphere12|Take 001|BaseLayer
+  - first:
+      74: 8012705345768502958
+    second: pSphere9|pSphere13|Take 001|BaseLayer
+  - first:
+      74: -1243577040185195030
+    second: pSphere9|pSphere14|Take 001|BaseLayer
+  - first:
+      74: -4299687719822731793
+    second: pSphere9|pSphere15|Take 001|BaseLayer
+  - first:
+      74: -2532191507235043522
+    second: pSphere9|pSphere16|Take 001|BaseLayer
+  - first:
+      74: 567208220083646790
+    second: pSphere9|pSphere17|Take 001|BaseLayer
+  - first:
+      74: -4569209449054020716
+    second: pSphere9|pSphere18|Take 001|BaseLayer
+  - first:
+      74: 4706696518382113078
+    second: pSphere9|pSphere19|Take 001|BaseLayer
+  - first:
+      74: 194902663856226100
+    second: pSphere9|pSphere1|Take 001|BaseLayer
+  - first:
+      74: 1880361565885101076
+    second: pSphere9|pSphere20|Take 001|BaseLayer
+  - first:
+      74: -5171397323320047327
+    second: pSphere9|pSphere21|Take 001|BaseLayer
+  - first:
+      74: 4055859975612936171
+    second: pSphere9|pSphere22|Take 001|BaseLayer
+  - first:
+      74: -1617777990111493979
+    second: pSphere9|pSphere23|Take 001|BaseLayer
+  - first:
+      74: -3224195597298168103
+    second: pSphere9|pSphere24|Take 001|BaseLayer
+  - first:
+      74: -4446315046089348852
+    second: pSphere9|pSphere25|Take 001|BaseLayer
+  - first:
+      74: 371655188640750547
+    second: pSphere9|pSphere26|Take 001|BaseLayer
+  - first:
+      74: 2967672615505588388
+    second: pSphere9|pSphere27|Take 001|BaseLayer
+  - first:
+      74: -7262465198215311153
+    second: pSphere9|pSphere28|Take 001|BaseLayer
+  - first:
+      74: 9157308319169332374
+    second: pSphere9|pSphere29|Take 001|BaseLayer
+  - first:
+      74: 7198768856110129623
+    second: pSphere9|pSphere2|Take 001|BaseLayer
+  - first:
+      74: -7101789090802337997
+    second: pSphere9|pSphere30|Take 001|BaseLayer
+  - first:
+      74: -1167971209227544202
+    second: pSphere9|pSphere31|Take 001|BaseLayer
+  - first:
+      74: -7371702356278419439
+    second: pSphere9|pSphere3|Take 001|BaseLayer
+  - first:
+      74: -1812118776800266125
+    second: pSphere9|pSphere4|Take 001|BaseLayer
+  - first:
+      74: 106118140888584934
+    second: pSphere9|pSphere5|Take 001|BaseLayer
+  - first:
+      74: -8413225857011611480
+    second: pSphere9|pSphere6|Take 001|BaseLayer
+  - first:
+      74: -8854001583854753701
+    second: pSphere9|pSphere7|Take 001|BaseLayer
+  - first:
+      74: 6423521054002377724
+    second: pSphere9|pSphere8|Take 001|BaseLayer
+  - first:
+      74: -3005268758829165667
+    second: pSphere9|pSphere9|Take 001|BaseLayer
+  - first:
+      74: 3270744262708577738
+    second: pSphere8|pCylinder1|Take 001|BaseLayer
+  - first:
+      74: 4046136115581977782
+    second: pSphere8|pCylinder2|Take 001|BaseLayer
+  - first:
+      74: -1738504537663443033
+    second: pSphere8|polySurface29|Take 001|BaseLayer
+  - first:
+      74: -6116774957417185074
+    second: pSphere8|polySurface35|Take 001|BaseLayer
+  - first:
+      74: -6738898763141053776
+    second: pSphere8|polySurface36|Take 001|BaseLayer
+  - first:
+      74: 8585016506807718919
+    second: pSphere8|polySurface37|Take 001|BaseLayer
+  - first:
+      74: -3461611109354331369
+    second: pSphere8|pPipe1|Take 001|BaseLayer
+  - first:
+      74: -2106192682862761534
+    second: pSphere8|pSphere10|Take 001|BaseLayer
+  - first:
+      74: 2060230024974460699
+    second: pSphere8|pSphere11|Take 001|BaseLayer
+  - first:
+      74: -668059864856499215
+    second: pSphere8|pSphere12|Take 001|BaseLayer
+  - first:
+      74: 6397282412303041134
+    second: pSphere8|pSphere13|Take 001|BaseLayer
+  - first:
+      74: -2989257718355765698
+    second: pSphere8|pSphere14|Take 001|BaseLayer
+  - first:
+      74: 4014924790782246715
+    second: pSphere8|pSphere15|Take 001|BaseLayer
+  - first:
+      74: -8808582482910444896
+    second: pSphere8|pSphere16|Take 001|BaseLayer
+  - first:
+      74: -5710203666751992232
+    second: pSphere8|pSphere17|Take 001|BaseLayer
+  - first:
+      74: -6057975470540272693
+    second: pSphere8|pSphere18|Take 001|BaseLayer
+  - first:
+      74: 3658018743090927680
+    second: pSphere8|pSphere19|Take 001|BaseLayer
+  - first:
+      74: -6991960993442591218
+    second: pSphere8|pSphere1|Take 001|BaseLayer
+  - first:
+      74: 6895626599262760764
+    second: pSphere8|pSphere20|Take 001|BaseLayer
+  - first:
+      74: 4797591654840318386
+    second: pSphere8|pSphere21|Take 001|BaseLayer
+  - first:
+      74: -6054201788858616785
+    second: pSphere8|pSphere22|Take 001|BaseLayer
+  - first:
+      74: 2880656739762730482
+    second: pSphere8|pSphere23|Take 001|BaseLayer
+  - first:
+      74: 3261854074676767542
+    second: pSphere8|pSphere24|Take 001|BaseLayer
+  - first:
+      74: 1826022991060480675
+    second: pSphere8|pSphere25|Take 001|BaseLayer
+  - first:
+      74: 2006810532987122273
+    second: pSphere8|pSphere26|Take 001|BaseLayer
+  - first:
+      74: -4197933292938346764
+    second: pSphere8|pSphere27|Take 001|BaseLayer
+  - first:
+      74: -419736050938255806
+    second: pSphere8|pSphere28|Take 001|BaseLayer
+  - first:
+      74: -5562289666467642478
+    second: pSphere8|pSphere29|Take 001|BaseLayer
+  - first:
+      74: -2615056033400456559
+    second: pSphere8|pSphere2|Take 001|BaseLayer
+  - first:
+      74: -7070060991251707951
+    second: pSphere8|pSphere30|Take 001|BaseLayer
+  - first:
+      74: -7906774223979209911
+    second: pSphere8|pSphere31|Take 001|BaseLayer
+  - first:
+      74: 8954407532419038439
+    second: pSphere8|pSphere3|Take 001|BaseLayer
+  - first:
+      74: -5126531127213937851
+    second: pSphere8|pSphere4|Take 001|BaseLayer
+  - first:
+      74: -7158677037721450631
+    second: pSphere8|pSphere5|Take 001|BaseLayer
+  - first:
+      74: -2275512702543153634
+    second: pSphere8|pSphere6|Take 001|BaseLayer
+  - first:
+      74: 615160837225327139
+    second: pSphere8|pSphere7|Take 001|BaseLayer
+  - first:
+      74: 7256826377562802658
+    second: pSphere8|pSphere8|Take 001|BaseLayer
+  - first:
+      74: -3656061425420074866
+    second: pSphere8|pSphere9|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

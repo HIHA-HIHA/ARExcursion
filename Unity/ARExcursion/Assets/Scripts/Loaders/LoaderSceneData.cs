@@ -8,11 +8,11 @@ using UnityEngine;
 public class LoaderSceneData : MonoBehaviour
 {
     [SerializeField]
-    private GameObject loaderPanel;
+    private GameObject loadingPanel;
 
     [SerializeField]
-    private TMP_Text loaderText;
+    private CanvasGroup alphaImage;
 
-    public GameObject LoaderPanel { get => loaderPanel; set => loaderPanel = value; }
-    public TMP_Text LoaderText { get => loaderText; set => loaderText = value; }
+    public CanvasGroup AlphaImage { get => alphaImage;}
+    public GameObject LoadingPanel { get => loadingPanel; set => loadingPanel = value; }
 }

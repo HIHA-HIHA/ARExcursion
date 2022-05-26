@@ -11,8 +11,6 @@ public class SizeController : MonoBehaviour
     [SerializeField]
     private float subargumentForScale;
 
-    [SerializeField]
-    private Animator animator;
 
     public void SetSize(float value)
     {
@@ -30,13 +28,4 @@ public class SizeController : MonoBehaviour
         gameObject = null;
     }
 
-    public void TurnOnPanel()
-    {
-        animator.SetTrigger("TurnOn");
-    }
-
-    public void TurnOffPanel()
-    {
-        animator.SetTrigger("TurnOff");
-    }
 }
