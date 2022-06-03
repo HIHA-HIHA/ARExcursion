@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class LoaderScene : MonoBehaviour
-{   
+{
     [SerializeField]
     private LoaderSceneData dataset;
 
@@ -15,30 +15,16 @@ public class LoaderScene : MonoBehaviour
     {
         if (dataset == null)
         {
-            Debug.LogWarning("Loader Scene: "+gameObject.name+":  ERROR: Not set datset!");
+            Debug.LogWarning("Loader Scene: " + gameObject.name + ":  ERROR: Not set datset!");
         }
     }
 
     public void StartLoading()
     {
         dataset.LoadingPanel.SetActive(true);
-        StartCoroutine(AsyncLoadScene());
+        SceneManager.LoadSceneAsync(nameScene);
     }
 
-    private IEnumerator AsyncLoadScene()
-    {
-        var operation = SceneManager.LoadSceneAsync(nameScene,LoadSceneMode.Additive);
-        while (!operation.isDone)
-        {
-            dataset.AlphaImage.alpha = (
-                operation.progress);
-            yield return new WaitForSeconds(0.001f);
-        }
-        yield return new WaitForSeconds(1f);
-        SceneManager.UnloadSceneAsync(SceneManager.GetActiveScene().buildIndex);
-        
-
-    }
-
+   
 
 }
