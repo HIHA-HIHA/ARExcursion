@@ -19,12 +19,10 @@ MonoBehaviour:
     cameraFocusModeSetting: 2
     cameraDeviceModeSetting: -3
     maxSimultaneousImageTargets: 1
-    maxSimultaneousObjectTargets: 1
     virtualSceneScaleFactor: 1
-    useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 0
-    version: 10.6.3
+    version: 10.7.2
     eulaAcceptedVersions: '{"Values":["8.5","8.1","9.5","9.6","0.0","9.8","10.2","10.3","10.4","10.5","10.6","10.7"]}'
   database:
     disableModelExtraction: 0
@@ -37,7 +35,7 @@ MonoBehaviour:
     videoBackgroundEnabled: 1
   deviceTracker:
     autoStartTracker: 1
-    arcoreRequirement: 1
+    arcoreRequirement: 2
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
   playmode:
